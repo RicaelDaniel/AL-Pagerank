@@ -1,15 +1,15 @@
-<h2 align = "center" >Trabalho de Álgebra Linear sobre o algoritimo do Pagerank</h2>
+<h2 align = "center" >Trabalho de Álgebra Linear sobre o algoritimo do PageRank</h2>
 
 <h3> Alunos </h3>
 
-<a href = "https://github.com/RicaelDaniel"> Ricael Daniel <a/>
+<a href = "https://github.com/RicaelDaniel"> Ricael Daniel Vieira da Silva <a/>, e
 <br>
-<a href = "https://github.com/TFrankeM"> Thiago Frank <a/>
+<a href = "https://github.com/TFrankeM"> Thiago Franke Melchiors <a/>
   
 <h3> Introdução </h3>
-  <p> Neste trabalho vamos abordar um pouco sobre o contexo histórico do algoritimo do pagerank, vamos abordar também sobre seu funcionamento
-  e depois vamos mostrar dois exemplos, um exemplo de resolução de ranqueamento simples e um exemplo computacional usando uma base de dados reais. </p>
+<p> Este relatório propõe uma explicação elucidativa acerca do funcionamento do algoritmo de PageRank do Google, enfatizando a visão da Álbegra Linear. Nesse sentido,
+o objetivo é apresentar a metodologia por trás da métrica, bem como aplicações em casos reais envolvendo bases de dados. </p>
 
 <h3> Sobre a base de dados </h3>
-  <p> No exemplo computacional vamos usar dados sobre a premier league temporada 20/21, essa base comtém dados sobre o número da rodada, local, data,
-  times que participaram da partida e também o placar da partida. </p>
+<p> Utilizamos uma base de dados sobre a disputa da Premier League} da temporada de 2020/2021. Nessa prática, analisaremos como ficaria a classificação dos times se o ranqueamento fosse feito a partir da capacidade de um time ganhar uma partida e da importância de cada vitória, em vez do atual sistema de pontos corridos.
+<\p>
