@@ -11,4 +11,4 @@
 o objetivo é apresentar a metodologia por trás da métrica, bem como aplicações em casos reais envolvendo bases de dados. </p>
 
 <h3> Sobre a base de dados </h3>
-<p> Utilizamos uma base de dados sobre a disputa da Premier League} da temporada de 2020/2021. Nessa prática, analisaremos como ficaria a classificação dos times se o ranqueamento fosse feito a partir da capacidade de um time ganhar uma partida e da importância de cada vitória, em vez do atual sistema de pontos corridos. <\p>
+<p> Utilizamos uma base de dados sobre a disputa da Premier League} da temporada de 2020/2021. Nessa prática, analisaremos como ficaria a classificação dos times se o ranqueamento fosse feito a partir da capacidade de um time ganhar uma partida e da importância de cada vitória, em vez do atual sistema de pontos corridos. </p>
