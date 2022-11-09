@@ -3,4 +3,5 @@
 
 <h3> Alunos </h3>
 <a href = "https://github.com/RicaelDaniel"> Ricael Daniel <a/>
+<br>
 <a href = "https://github.com/TFrankeM"> Thiago Frank <a/>
