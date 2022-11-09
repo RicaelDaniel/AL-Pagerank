@@ -1,4 +1,4 @@
 # AL-Pagerank
-Trabalho de Álgebra Linear sobre o algoritimo do pagerank.
+<h2 alight = "center" >Trabalho de Álgebra Linear sobre o algoritimo do pagerank.</h2>
 
-<h3> Alunos <\h3>
+<h3> Alunos </h3>
